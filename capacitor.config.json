@@ -1,0 +1,14 @@
+{
+	"appId": "com.dylancyclone.capacitorandroidredirect",
+	"appName": "capacitor-android-redirect",
+	"webDir": "dist",
+	"server": {
+		"cleartext": true,
+		"allowNavigation": ["192.168.10.105"]
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
